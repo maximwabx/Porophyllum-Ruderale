@@ -20,8 +20,8 @@ In Singapore, pápalo has been recorded specifically in a scrubland near Tanah M
 
 
 <param ve-image 
-       url="https://github.com/maximwabx/Jaguar/assets/134259666/a8da9604-1797-4230-8dda-ba742e00b050"
-       title="History of non-native establishments of jaguar cichlid worldwide, in chronological order (where known or reported). Table by Holmes et al. 2020.">
+       url="https://github.com/maximwabx/Porophyllum-Ruderale/assets/134259666/2840db6b-b0d1-41ea-84d5-08ee00b27d87"
+       title="Pápalo can be found in the Singapore Botanic Gardens Herbarium. Photo courtesy of SING Herbarium, Singapore Botanic Gardens.">
 
 ##
 Where it comes from, pápalo is put to work. In Mexico, it is eaten and acts as a key ingredient in significant regional recipes. In pre-colonial times, the diet of cultures that lived in what is now Mexico consisted primarily of corn, beans, chillies, and squash, which were grown together in la milpa, a traditional form of agriculture.[^10] The different weeds and herbs that grow amongst these key crops, quelites, were also eaten. Pápalo is one of these, meaning that its flavour, which is somewhat reminiscent of arugula and spinach, has been part of the Mexican palate for many centuries. It is a great ingredient to add to a salsa verde (green salsa) or guacamole, and it may be added fresh to tacos or soups as a final tasty touch. Pápalo is particularly important in the state of Puebla, in Central Mexico, where it is an indispensable ingredient for cemitas. Cemitas are a kind of torta—a type of sandwich that is common in all of Mexico and is similar to Vietnamese bánh mì—that is endemic to the state of Puebla. Cemitas typically have pápalo, avocado, quesillo or string cheese, tomato slices, onion, chipotle or other kind of chilli, and meat, usually breaded chicken.[^11] These tortas are typically prepared using recipes passed down through multiple generations and are understood to be ubiquitous in Puebla, where they have become so entrenched in the regional gastronomical identity that they transcend class divisions and other social fractures.[^12]
