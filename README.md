@@ -5,7 +5,7 @@
 <param ve-config 
        title="Pápalo: Title in Progress"
        author="Max D. López Toledano"
-       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Parachromis_managuensis.jpg/640px-Parachromis_managuensis.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Porop_ruder_100302-0244_ipb.jpg/640px-Porop_ruder_100302-0244_ipb.jpg"
        layout="vertical">
       
 ##
@@ -64,35 +64,36 @@ But pápalo has so much more to offer. For traditional medicine enthusiasts, it 
 
 # References
 
-[^1]: 
-[^2]:
-[^3]: 
-[^4]:
-[^5]:
-[^6]: 
-[^7]:  
-[^8]:  
-[^9]: 
-[^10]:  
-[^11]:
-[^12]: 
-[^13]: 
-[^14]: 
-[^15]:  
-[^16]:  
-[^17]: 
-[^18]:   
-[^19]: 
-[^20]:  
-[^21]: 
-[^22]: 
-[^23]: 
-[^24]: 
-[^26]: 
-[^27]: 
-[^28]: 
-[^29]: 
-[^30]: 
-[^31]: 
-[^32]: 
-[^33]:
+[^1]:  Centre for Language Technology. “Nahuatl”. Centre for Language Technology, Indiana University (2023). https://celt.indiana.edu/portal/Nahuatl/index.html. 
+[^2]:  Servicio de Información Agroalimentaria y Pesquera. “pápalo: la “mariposa” azteca”. Gobierno de México (2018). https://www.gob.mx/siap/articulos/papalo-la-mariposa-azteca. 
+[^3]:  The Total Vascular Flora of Singapore Online. “Porophyllum ruderale”. The Total Vascular Flora of Singapore Online (2010). https://floraofsingapore.wordpress.com/2010/08/22/porophyllum-ruderale/. 
+[^4]: IPBES. “Naturalized Species”. Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (2023). https://www.ipbes.net/glossary/naturalized-species. 
+[^5]: The Total Vascular Flora of Singapore Online, 2010.
+[^6]: Bird Ecology Study Group. “Olive-backed Sunbird collecting fruits of Porophyllum ruderale (F: Asteraceae)”. Bird Ecology Study Group (2015). https://besgroup.org/2015/05/08/olive-backed-sunbird-collecting-fruits-of-porophyllum-ruderale-f-asteraceae/. 
+[^7]: The Biodiversity of Singapore. “Porophyllum ruderale”. The Biodiversity of Singapore (2023). https://singapore.biodiversity.online/species/P-Angi-001439. 
+[^8]:  Tan, HTW, Ibrahim, AB, Chua, KS, Turner, IM, Wee, YC & Chew, PT. “Additions to the Flora of Singapore”. Gard. Bull. Sing. 44(2) (1992): 127-133.
+[^9]:  Biblioteca Digital de la Medicina Tradicional Mexicana. “pápalo o papaloquelite”. Atlas de las Plantas de la Medicina Tradicional Mexicana (2009). http://www.medicinatradicionalmexicana.unam.mx/apmtm/termino.php?l=3&t=porophyllum-ruderale.
+[^10]: Castillejos, Paloma G. “Al Pápalo Lo Amas o Lo Odias… Pero Primero Conócelo”. Animal Gourmet (2020). https://www.animalgourmet.com/2020/04/20/papalo-que-es-quelite/. 
+[^11]: Nolasco Carpinteyro, Erika. “Significado cultural de la cemita poblana en el marco inmaterial como icono gastronómico”. Masters Thesis Presented at Benemérita Universidad Autónoma de Puebla in Mexico (2017).
+[^12]:  Ibid.
+[^13]:  El Universal. “¿Cuáles son los beneficios del pápalo?”. El Universal (2017). https://www.eluniversal.com.mx/menu/cuales-son-los-beneficios-del-papalo/. 
+[^14]:  Biblioteca Digital de la Medicina Tradicional Mexicana, 2009.
+[^15]:  Biblioteca Digital de la Medicina Tradicional Mexicana, 2009.
+[^16]:  Biblioteca Digital de la Medicina Tradicional Mexicana, 2009.
+[^17]: Prado, Sumaya. “La Quirquiña”. GustuBlog (2018). https://blog.gustu.bo/?p=572. 
+[^18]: Medicina Intercultural. “Quilquiña”. Medicina Intercultural (2023). http://medicinaintercultural.org/cd/plantas/quilqui%C3%B1a. 
+[^19]: Prado, 2018.
+[^20]: Fontes Jr., UR, Ramos, CS, Serafini, MR, Cavalcanti, SCH, Alves, PB, Lima, GM, Andrade, PHS, Bonjardim, LR, Quintans Jr., LJ, Araújo, AAS. “Evaluation of the lethality of Porophyllum ruderale essential oil against Biomphalaria glabrata, Aedes aegypti and Artemia salina”. African Journal of Biotechnology 11(13) (2012). 
+[^21]: Fowler, Alys. “How to grow Mexican and Bolivian coriander”. The Guardian (2018). https://www.theguardian.com/lifeandstyle/2018/apr/28/how-to-grow-mexican-bolivian-coriander. 
+[^22]: Bennett, Marcus. “Secrets of the World’s Biggest Gin Collection”. Bloomberg (2017). https://www.bloomberg.com/news/articles/2017-04-25/secrets-of-the-world-s-biggest-gin-collection-atlas-bar-singapore. 
+[^23]: Tjitrosoedirdjo, Sri S. “Four new taxa of Asteraceae in Sumatera”. Reinvvardtia 12(1) (2002).:125-128.
+[^24]: Unesco. “Kebun Raya Bogor”. Unesco (2023). https://whc.unesco.org/en/tentativelists/6353/. 
+[^25]: Tjitrosoedirdjo, 2002.
+[^26]: Guerrero, AM, Pozo, P, Chamorro, S, Guezou, A, & Buddenhagen, CE. “Baseline data for identifying potentially invasive plants in Puerto Ayora, Santa Cruz Island, Galapagos”. Pacific Conservation Biology, 14(2) (2008): 93-107.
+[^27]: McMullen, Conley K. “Flowering Plants of the Galápagos”. Cornell University Press (1999).
+[^28]: Pacific Island Ecosystems at Risk. “Porophyllum ruderale”. Pacific Island Ecosystems at Risk (2017). http://www.hear.org/pier/species/porophyllum_ruderale.html. 
+[^29]: Tan et al., 1992.
+[^30]: Turner,  M. “A catalogue of the Vascular Plants of Malaya”. Card. Bull, of Singapore 47(1) (1995): 168-172.
+[^31]: Nature Love You SG. “Porophyllum ruderale”. Nature Love You SG (2008). http://www.natureloveyou.sg/Porophyllum%20ruderale/Main.html. 
+[^32]: Bird Ecology Study Group, 2015.
+[^33]: Coderey, Céline.“The (Buddhist) grammar of healing. Building therapeutic efficacy in the pluralistic context of Rakhine, Myanmar”. Asian Medicine 12 (2018): 1-32).
