@@ -1,4 +1,3 @@
-# Porophyllum Ruderale
 
 # Pápalo
 
@@ -13,7 +12,7 @@ Across Singapore, a special plant lives almost unnoticed. It goes by many names,
 
 
 <param ve-image 
-       url="![Codice](https://github.com/maximwabx/Porophyllum-Ruderale/assets/134259666/56326ee4-bc59-458d-b1e2-3ea71786e64a)"
+       url="https://github.com/maximwabx/Porophyllum-Ruderale/assets/134259666/56326ee4-bc59-458d-b1e2-3ea71786e64a"
        title="Pápalo was part of a botanical archive in the form of codex made as requested by the Spanish King Charles V. File by Mediateca INAH.">
        
 ## 
