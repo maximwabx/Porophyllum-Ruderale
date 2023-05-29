@@ -98,7 +98,7 @@ But pápalo has so much more to offer. For traditional medicine enthusiasts, it 
 [^26]: AM Guerrero, P Pozo, S Chamorro, A Guezou & CE Buddenhagen, “Baseline data for identifying potentially invasive plants in Puerto Ayora, Santa Cruz Island, Galapagos”, *Pacific Conservation Biology* 14, No.2 (2008): 93-107.
 [^27]: Conley K. McMullen, *Flowering Plants of the Galápagos* (Ithaca: Cornell University Press, 1999), .
 [^28]: “Porophyllum ruderale”, Pacific Island Ecosystems at Risk, 2017. http://www.hear.org/pier/species/porophyllum_ruderale.html. 
-[^29]: Tan et al., 1992.
+[^29]: HTW Tan, HTW, AB Ibrahim, KS Chua, IM Turner, YC Wee & PT Chew. “Additions to the Flora of Singapore”, *Gard. Bull. Sing* 44, No.2 (1992): 127-133.
 [^30]: M. Turner, “A catalogue of the Vascular Plants of Malaya”. *Card. Bull, of Singapore* 47, No.1 (1995): 168-172.
 [^31]:  Ina Vandebroek & Michael J. Balick, "Globalization and loss of plant knowledge: challenging the paradigm", *PLoS One* 7, No.5 (2012).
 [^32]: “Porophyllum ruderale”, Nature Love You SG, 2008. http://www.natureloveyou.sg/Porophyllum%20ruderale/Main.html.
