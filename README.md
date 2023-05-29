@@ -2,7 +2,7 @@
 # Pápalo (*Porophyllum ruderale*)
 
 <param ve-config 
-       title="Pápalo: Title in Progress"
+       title="Pápalo: Lost in Translation"
        author="Max D. López Toledano"
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Porop_ruder_050107-062_ckup.jpg/640px-Porop_ruder_050107-062_ckup.jpg"
        layout="vertical">
@@ -16,7 +16,7 @@ All across Singapore, a special plant lives almost unnoticed. It goes by many na
        title="Pápalo was part of a botanical archive in the form of codex made as requested by the Spanish King Charles V. File by Mediateca INAH.">
        
 ## 
-In Singapore, pápalo has been recorded specifically in a scrubland near Tanah Merah,[^5] in a grassland in Punggol Barat,[^6] and in Pulau Tekukor,[^7] though it can also be found in many other parts of the island.[^8] It can be identified by its distinctive characteristics: Pápalo grows vertically up to 75 cm and has emblematic grass-like green leaves which resemble the shape of butterfly wings, hence its name.[^9] At the top, it has a bud that can be up to 2.5 cm long, which remains closed until the plant is ready to spread its seeds. When this bud opens, it resembles a dandelion’s head.
+In Singapore, pápalo has been recorded specifically in a scrubland near Tanah Merah,[^5] in a grassland in Punggol Barat,[^6] and in Pulau Tekukor,[^7] though it can also be found in many other parts of the island.[^8] It can be identified by its distinctive characteristics: pápalo grows vertically up to 75 cm and has emblematic grass-like green leaves which resemble the shape of butterfly wings, hence its name.[^9] At the top, it has a bud that can be up to 2.5 cm long, which remains closed until the plant is ready to spread its seeds. When this bud opens, it resembles a dandelion’s head.
 
 
 <param ve-image 
@@ -52,7 +52,7 @@ Today, this is a mystery. No one really knows. The first reports of pápalo bein
        title="Bogor Botanical Gardens. Photo by Arabsalam.">
 
 ##
-Pápalo was first reported in Singapore in 1992[^29] and 1995,[^30] but its arrival story is also unclear. And, given the lack of uses allocated to it in Singapore (as opposed to the regions to which it is native), it seems like not many have even noticed the opportunities that Pápalo presents.  This is not particularly rare: it is well reported that globalisation, migration, and the overall dispersal of plant species all over the world leads in most (though not all) cases to a loss of  ‘biodiversity-based cultural knowledge’, and Singapore is no exception.[^31] Pápalo has not yet begun its social life in Singapore. So far, only a few botanists and plant enthusiasts are aware of its existence, spotting it in several corners of Singapore and in some cases capturing its beauty in full display.[^32] Some birds have also noticed, using it as an occasional perching site and picking its dried fruits for nesting material.[^33] 
+Pápalo was first reported in Singapore in 1992[^29] and 1995,[^30] but its arrival story is also unclear. And, given the lack of uses allocated to it in Singapore (as opposed to the regions to which it is native), it seems like not many have even noticed the opportunities that pápalo presents.  This is not particularly rare: it is well reported that globalisation, migration, and the overall dispersal of plant species all over the world leads in most (though not all) cases to a loss of  ‘biodiversity-based cultural knowledge’, and Singapore is no exception.[^31] Pápalo has not yet begun its social life in Singapore. So far, only a few botanists and plant enthusiasts are aware of its existence, spotting it in several corners of Singapore and in some cases capturing its beauty in full display.[^32] Some birds have also noticed, using it as an occasional perching site and picking its dried fruits for nesting material.[^33] 
 
 <param ve-image 
        url="https://github.com/maximwabx/Porophyllum-Ruderale/assets/134259666/1c5fb9ad-f03c-4c55-8187-754bea1ea71c"
