@@ -13,8 +13,8 @@ Across Singapore, a special plant lives almost unnoticed. It goes by many names,
 
 
 <param ve-image 
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Parachromis_managuensis_2012_G1.jpg/1600px-Parachromis_managuensis_2012_G1.jpg?20120311175105"
-       title="Jaguar Cichlids are highly prized by aquarium keepers. Photo by George Chernilevsky.">
+       url="![Codice](https://github.com/maximwabx/Porophyllum-Ruderale/assets/134259666/56326ee4-bc59-458d-b1e2-3ea71786e64a)"
+       title="Pápalo was part of a botanical archive in the form of codex made as requested by the Spanish King Charles V. File by Mediateca INAH.">
        
 ## 
 In Singapore, pápalo has been recorded specifically in a scrubland near Tanah Merah,[^5] in a grassland in Punggol Barat,[^6] and in Pulau Tekukor,[^7] though it can also be found in many other parts of the island.[^8] It can be identified by its distinctive characteristics: pápalo grows vertically up to 75 cm and has emblematic grass-like green leaves which resemble the shape of butterfly wings, hence its name.[^9] At the top, it has a bud that can be up to 2.5 cm long, which remains closed until the plant is ready to spread its seeds. When this bud opens, it resembles a dandelion’s head.
