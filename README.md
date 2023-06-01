@@ -15,6 +15,7 @@ All across Singapore, a special plant lives almost unnoticed. It goes by many na
        url="https://mediateca.inah.gob.mx/adore-djatoka//resolver?rft_id=https%3A%2F%2Fmediateca.inah.gob.mx%2Frepositorio%2Fislandora%2Fobject%2Fcodice%253A897%2Fdatastream%2FJP2%2Fview%3Ftoken%3D71fa3c5704caeb703cb4a83afbeb285a2537cf9bf069e25506ec30ab61dc0769&url_ver=Z39.88-2004&svc_id=info%3Alanl-repo%2Fsvc%2FgetRegion&svc_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajpeg2000&svc.format=image%2Fjpeg&svc.level=4&svc.rotate=0"
        title="Pápalo was part of a botanical archive in the form of codex, Códice Badiano, made at the request of Spanish King Charles V."
        attribution="D.R. Instituto Nacional de Antropología e Historia, México"
+       region="1,85,1073,827"
        license="CC BY-NC-ND 4.0">
        
 ## 
