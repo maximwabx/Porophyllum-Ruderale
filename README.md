@@ -33,16 +33,16 @@ Where it comes from, pápalo is put to work. In Mexico, it is eaten and acts as 
                             
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CemitaSandwich.JPG/640px-CemitaSandwich.JPG"
-       title="A cemita torta in Puebla with pápalo leaves. Photo by Alejandro Linares García.
+       title="A cemita torta in Puebla with pápalo leaves."
        attribution="Alejandro Linares García"
        license="Creative Commons Attribution-Share Alike 4.0">                        
 
-##
+##                                                         
 Likewise, in both Mexico and in South America, pápalo is known to have medicinal uses. Not only is it understood to reduce cholesterol and improve digestion when eaten,[^13] but is also used in different preparations to treat a variety of issues. In some parts of Mexico, it is used as a natural anti-inflammatory medicine, and may even be used to fight tooth aches.[^14] It is also used by Indigenous communities in the south of Mexico to help regulate the body after experiencing *ataques* or *latidos*, which are local cultural terms to describe experiences similar to irregular heart beatings or even epileptic convulsions.[^15] In some parts of the south of Mexico, pápalo is also boiled whole and given to women after they have given birth with which to wash themselves. This is supposed to help regulate their menstruation during the postpartum period.[^16] In Bolivia, similarly, pápalo is known to be an anti-inflammatory plant. It is used to treat burns[^17] or, in some cases, water infused with pápalo can also be drunk to treat a sore throat.[^18] And beyond its medicinal use, pápalo is also employed in many creative ways, such as perfumes, drinks,[^19] or even pesticides. Its essential oils have been researched as a molluscicidal and larvicidal option.[^20] Outside of Latin America, pápalo has also become a popular species for home cultivation, as is the case in Europe and North America.[^21]
 
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Nanciyaga30.JPG/640px-Nanciyaga30.JPG"
-       title="Herbal steam baths are a common traditional healing practice in Southern Mexico for pregnant women and after birth. In some places, there is a specific place designed for this, the ‘Temazcal’, pictured above.
+       title="Herbal steam baths are a common traditional healing practice in Southern Mexico for pregnant women and after birth. In some places, there is a specific place designed for this, the ‘Temazcal’, pictured above."
        attribution="Alejandro Linares García"
        license="Creative Commons Attribution-Share Alike 3.0">
 
@@ -53,7 +53,7 @@ In Singapore, however, there are currently no reported uses for pápalo, be they
        url="https://upload.wikimedia.org/wikipedia/commons/2/23/RafflesHotel-Singapore-20041025.jpg?20091213172452"
        title="Singapore Atlas Bar is located inside the Raffles Hotel."
        attribution="Velela"
-       license="Creative Commons Attribution-Share Alike 3.0>
+       license="Creative Commons Attribution-Share Alike 3.0">
 
 ##
 Today, this is a mystery. No one really knows. The first reports of pápalo being introduced to Southeast Asia are from 1945 in Bogor, Indonesia,[^23] but there are no records on the reasons it was there in the first place. We may speculate it could have been imported to Indonesia to introduce it to the Bogor Botanical Gardens, which are home to over 3,000 species from all over the world,[^24] but there is no reported trace of pápalo being part of the Bogor Botanical Gardens either. The first recorded introduction of pápalo to a herbarium in Southeast Asia was three decades later in Sumatra, in 1978.[^25] Its introduction to the region could also have been accidental, as it is believed to have been the case in the Galapagos Islands,[^26] where pápalo has been reported since 1999.[^27] It is suspected that it was introduced as food into the islands before it accidentally spread into the wild.[^28] Its seeds are light and can be carried by the wind, after all. Another possibility is that it was traded from Veracruz, Mexico—where it can be commonly found in food markets—to the Philippines, given that this was the trade route of the Manila Galleon, but there are no reports of pápalo being involved in this trade. 
