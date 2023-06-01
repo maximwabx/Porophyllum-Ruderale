@@ -16,7 +16,8 @@ All across Singapore, a special plant lives almost unnoticed. It goes by many na
        title="Pápalo was part of a botanical archive in the form of codex made as requested by the Spanish King Charles V. File by Mediateca INAH.">
        
 ## 
-In Singapore, pápalo has been recorded specifically in a scrubland near Tanah Merah,[^5] in a grassland in Punggol Barat,[^6] and in Pulau Tekukor,[^7] though it can also be found in many other parts of the island.[^8] It can be identified by its distinctive characteristics: pápalo grows vertically up to 75 cm and has emblematic grass-like green leaves which resemble the shape of butterfly wings, hence its name.[^9] At the top, it has a bud that can be up to 2.5 cm long, which remains closed until the plant is ready to spread its seeds. When this bud opens, it resembles a dandelion’s head.
+In Singapore, pápalo has been recorded specifically in a scrubland near Tanah Merah,[^5] in a grassland in Punggol Barat,[^6] and in Pulau Tekukor,[^7] though it can also be found in many other parts of the island.[^8] It can be identified by its distinctive characteristics: pápalo grows vertically up to 75 cm and has emblematic grass-like green leaves which resemble the shape of butterfly wings, hence its name.[^9] At the top, it has a bud that can be up to 2.5 cm long, which remains closed until the plant is ready to spread its seeds. When this bud opens, it resembles a dandelion’s head. Pápalo can be easily confused with the plant *Emilia sonchifolia* (<span eid="Q3595665">'Cupid's Shaving Brush'</span>), which is native to Asia and looks rather similar. They can be differentiated, however, by their leaves and by the colour of their buds. Pápalo has rounder leaves, whereas *Emilia sonchifolia* tends to have long and pointy leaves. The buds of pápalo,likewise, tend to be yellow, whereas *Emilia sonchifolia* tends to have pink buds.  
+
 
 
 <param ve-image 
