@@ -69,7 +69,7 @@ Pápalo was first reported in Singapore in 1992[^29] and 1995,[^30] but its arri
 
 <param ve-image 
        url="https://github.com/maximwabx/Porophyllum-Ruderale/assets/134259666/1c5fb9ad-f03c-4c55-8187-754bea1ea71c"
-       title="An Olive-backed Sunbird stands on a pápalo in Singapore." 
+       title="An Olive-backed Sunbird stands on a pápalo plant in Singapore." 
        attribution="Thong Chow Ngian @ Bird Ecology Study Group Blog"
        license="Used with permission">
       <param ve-image 
