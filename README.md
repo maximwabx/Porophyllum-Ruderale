@@ -13,7 +13,7 @@ All across Singapore, a special plant lives almost unnoticed. It goes by many na
 
 <param ve-image 
        url="https://github.com/maximwabx/Porophyllum-Ruderale/assets/134259666/56326ee4-bc59-458d-b1e2-3ea71786e64a"
-       title="Pápalo was part of a botanical archive in the form of codex made as requested by the Spanish King Charles V"
+       title="Pápalo was part of a botanical archive in the form of codex made as requested by the Spanish King Charles V."
        attribution="Mediateca INAH"
        license="CC BY-NC-ND 4.0">
        
