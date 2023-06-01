@@ -18,18 +18,18 @@ All across Singapore, a special plant lives almost unnoticed. It goes by many na
        license="CC BY-NC-ND 4.0">
        
 ## 
-In Singapore, pápalo has been recorded specifically in a scrubland near Tanah Merah,[^5] in a grassland in Punggol Barat,[^6] and in Pulau Tekukor,[^7] though it can also be found in many other parts of the island.[^8] It can be identified by its distinctive characteristics: pápalo grows vertically up to 75 cm and has emblematic grass-like green leaves which resemble the shape of butterfly wings, hence its name.[^9] At the top, it has a bud that can be up to 2.5 cm long, which remains closed until the plant is ready to spread its seeds. When this bud opens, it resembles a dandelion’s head. Pápalo can be easily confused with the plant *Emilia sonchifolia* (<span eid="Q3595665">'Cupid's Shaving Brush'</span>), which is native to Asia and looks rather similar. They can be differentiated, however, by their leaves and by the colour of their buds. Pápalo has rounder leaves, whereas *Emilia sonchifolia* tends to have long and pointy leaves. The buds of pápalo,likewise, tend to be yellow, whereas *Emilia sonchifolia* tends to have pink buds.  
-
-
+In Singapore, pápalo has been recorded specifically in a scrubland near Tanah Merah,[^5] in a grassland in Punggol Barat,[^6] and in Pulau Tekukor,[^7] though it can also be found in many other parts of the island.[^8] It can be identified by its distinctive characteristics: pápalo grows vertically up to 75 cm and has emblematic grass-like green leaves which resemble the shape of butterfly wings, hence its name.[^9] At the top, it has a bud that can be up to 2.5 cm long, which remains closed until the plant is ready to spread its seeds. When this bud opens, it resembles a dandelion’s head. Pápalo can be easily confused with the plant *Emilia sonchifolia* (<span eid="Q3595665">'Cupid's Shaving Brush'</span>), which is native to Asia and looks rather similar. They can be differentiated, however, by their leaves and by the colour of their buds. Pápalo has rounder leaves, whereas *Emilia sonchifolia* tends to have long and pointy leaves. The buds of pápalo tend to be yellow, whereas *Emilia sonchifolia* tends to have pink buds.  
 
 <param ve-image 
        url="https://github.com/maximwabx/Porophyllum-Ruderale/assets/134259666/2840db6b-b0d1-41ea-84d5-08ee00b27d87"
        title="Pápalo can be found in the Singapore Botanic Gardens Herbarium."
        attribution="Courtesy of SING Herbarium, Singapore Botanic Gardens"
-       license="“©SING Herbarium, Singapore Botanic Gardens, used with permission">
+       license=“©SING Herbarium, Singapore Botanic Gardens, used with permission"
+       fit="contain"
+       >
 
 ##
-Where it comes from, pápalo is put to work. In Mexico, it is eaten and acts as a key ingredient in significant regional recipes. In pre-colonial times, the diet of cultures that lived in what is now Mexico consisted primarily of corn, beans, chillies, and squash, which were grown together in *la milpa*, a traditional form of agriculture.[^10] The different weeds and herbs that grow amongst these key crops, *quelites*, were also eaten. Pápalo is one of these, meaning that its flavour, which is somewhat reminiscent of arugula and spinach, has been part of the Mexican palate for many centuries. It is a great ingredient to add to a *salsa verde* (green salsa) or guacamole, and it may even be added fresh to tacos or soups as a final tasty touch. Pápalo is particularly important in the state of Puebla, in Central Mexico, where it is an indispensable ingredient for *cemitas*. *Cemitas* are a kind of '*torta*'—a type of sandwich that is common in all of Mexico and is similar to Vietnamese *bánh mì*—that is endemic to the state of Puebla. Cemitas typically have pápalo, avocado, *quesillo* or string cheese, tomato slices, onion, chipotle or other kind of chilli, and meat, usually breaded chicken.[^11] These *tortas* are typically prepared using recipes passed down through multiple generations and are understood to be ubiquitous in Puebla, where they have become so entrenched in the regional gastronomical identity that they transcend class divisions and other social fractures.[^12]
+Where it comes from, pápalo is put to work. In Mexico, it is eaten and acts as a key ingredient in significant regional recipes. In pre-colonial times, the diet of cultures that lived in what is now Mexico consisted primarily of corn, beans, chillies, and squash, which were grown together in *la milpa*, a traditional form of agriculture.[^10] The different weeds and herbs that grow amongst these key crops, *quelites*, were also eaten. Pápalo is one of these, meaning that its flavour, which is somewhat reminiscent of arugula and spinach, has been part of the Mexican palate for many centuries. It is a great ingredient to add to a *salsa verde* (green salsa) or guacamole, and it may even be added fresh to tacos or soups as a final tasty touch. Pápalo is particularly important in the state of Puebla, in Central Mexico, where it is an indispensable ingredient for *cemitas*. *Cemitas* are a kind of *torta*—a type of sandwich that is common in all of Mexico and is similar to Vietnamese *bánh mì*—that is endemic to the state of Puebla. Cemitas typically have pápalo, avocado, *quesillo* or string cheese, tomato slices, onion, chipotle or other kind of chilli, and meat, usually breaded chicken.[^11] These *tortas* are typically prepared using recipes passed down through multiple generations and are understood to be ubiquitous in Puebla, where they have become so entrenched in the regional gastronomical identity that they transcend class divisions and other social fractures.[^12]
                             
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CemitaSandwich.JPG/640px-CemitaSandwich.JPG"
@@ -80,8 +80,10 @@ But pápalo has so much more to offer. For traditional medicine enthusiasts, it 
 
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flore_m%C3%A9dicale_des_Antilles%2C_ou%2C_Trait%C3%A9_des_plantes_usuelles_%2810420863834%29.jpg/640px-Flore_m%C3%A9dicale_des_Antilles%2C_ou%2C_Trait%C3%A9_des_plantes_usuelles_%2810420863834%29.jpg"
+       label="Botanical illustration from *Flore médicale des Antilles*, vol. 6 (1828)"
        attribution="Descourtilz, J. Theodore.; Descourtilz, M.E.; Pichard"
-       license="Public domain">
+       license="Public domain"
+        fit="contain">
 
 # References
 
