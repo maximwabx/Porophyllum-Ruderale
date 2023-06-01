@@ -12,9 +12,9 @@ All across Singapore, a special plant lives almost unnoticed. It goes by many na
 
 
 <param ve-image 
-       url="https://github.com/maximwabx/Porophyllum-Ruderale/assets/134259666/56326ee4-bc59-458d-b1e2-3ea71786e64a"
-       title="Pápalo was part of a botanical archive in the form of codex made as requested by the Spanish King Charles V."
-       attribution="Mediateca INAH"
+       url="https://mediateca.inah.gob.mx/adore-djatoka//resolver?rft_id=https%3A%2F%2Fmediateca.inah.gob.mx%2Frepositorio%2Fislandora%2Fobject%2Fcodice%253A897%2Fdatastream%2FJP2%2Fview%3Ftoken%3D71fa3c5704caeb703cb4a83afbeb285a2537cf9bf069e25506ec30ab61dc0769&url_ver=Z39.88-2004&svc_id=info%3Alanl-repo%2Fsvc%2FgetRegion&svc_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajpeg2000&svc.format=image%2Fjpeg&svc.level=4&svc.rotate=0"
+       title="Pápalo was part of a botanical archive in the form of codex, Códice Badiano, made at the request of Spanish King Charles V."
+       attribution="D.R. Instituto Nacional de Antropología e Historia, México"
        license="CC BY-NC-ND 4.0">
        
 ## 
@@ -80,7 +80,7 @@ But pápalo has so much more to offer. For traditional medicine enthusiasts, it 
 
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flore_m%C3%A9dicale_des_Antilles%2C_ou%2C_Trait%C3%A9_des_plantes_usuelles_%2810420863834%29.jpg/640px-Flore_m%C3%A9dicale_des_Antilles%2C_ou%2C_Trait%C3%A9_des_plantes_usuelles_%2810420863834%29.jpg"
-       label="Botanical illustration from *Flore médicale des Antilles*, vol. 6 (1828)"
+       label="Botanical illustration from Flore médicale des Antilles, vol. 6 (1828)"
        attribution="Descourtilz, J. Theodore.; Descourtilz, M.E.; Pichard"
        license="Public domain"
         fit="contain">
