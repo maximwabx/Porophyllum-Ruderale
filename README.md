@@ -24,7 +24,7 @@ In Singapore, pápalo has been recorded specifically in a scrubland near Tanah M
 
 <param ve-image 
        url="https://github.com/maximwabx/Porophyllum-Ruderale/assets/134259666/2840db6b-b0d1-41ea-84d5-08ee00b27d87"
-       title="Pápalo can be found in the Singapore Botanic Gardens Herbarium.
+       title="Pápalo can be found in the Singapore Botanic Gardens Herbarium."
        attribution="Courtesy of SING Herbarium, Singapore Botanic Gardens"
        license="“©SING Herbarium, Singapore Botanic Gardens, used with permission">
 
